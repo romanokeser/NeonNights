@@ -128,8 +128,6 @@ public class CarDriftSimulation : MonoBehaviour
 
     // Camera Setting ///////////////////////////////////////////////////////////////
 
-    public CameraView cameraView;
-
 
     [System.Serializable]
     public class CameraView
